@@ -20,8 +20,15 @@ include('includes/header.php');
     <a href="skills.php">
       Manage Skills
     </a>
+  </li>
+  <li>
     <a href="education.php">
       Manage Education
+    </a>
+  </li>
+  <li>
+    <a href="work.php">
+      Manage Work
     </a>
   </li>
   <li>
